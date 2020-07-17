@@ -1,0 +1,13 @@
+# venv
+/VaR_LSTM
+
+# notebook checkpoints
+.ipynb_checkpoints
+
+# pycache
+__pycache__
+
+# pycharm
+.idea
+
+

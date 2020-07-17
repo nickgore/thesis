@@ -1,0 +1,6 @@
+# alpha_vantage
+keras
+matplotlib
+numpy
+pandas
+scipy
