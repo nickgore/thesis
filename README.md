@@ -11,6 +11,7 @@
 * backtesting.py - contains definitions of backtest
 * LSTM.py - LSTM model
 * helpers.py - helper functions
+* backtesting_results.json - forecast backtesting results
 
 #### Tools:
 **LSTM** is deep learning algorithm developed by Hochreiter and
