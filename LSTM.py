@@ -4,7 +4,7 @@ LSTM model for Value at Risk forecast
 from keras.layers.core import Dense, Activation, Dropout
 from keras.layers.recurrent import LSTM
 from keras.models import Sequential
-
+import keras.backend as kb
 
 
 def lstm_for_var():
